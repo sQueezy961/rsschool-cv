@@ -1,7 +1,6 @@
 # *Alex Chichin*
 ---
 ## **My contact info:**
----
 #### *Phone number*  
 + *+380973393556* 
 #### *Email* 
@@ -20,3 +19,21 @@
 ##### *My dear friends gave me some insight into this but I really liked it when I tried it myself.*
 ##### ***I am flexible and able to quickly learn a new "craft" because I enjoyed being a developer, I will do my best to be a useful worker***
 ---
+## *Skills*
+##### *Git*
+##### *Markdown*
+---
+## *Code examples*
+```
+function multiply(a, b){
+return  a * b;
+}
+```
+---
+## *Education*
+##### **Rs-School**
+---
+## *Languages*
+#### *English - A2*
+
+
