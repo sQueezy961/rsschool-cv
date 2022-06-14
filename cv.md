@@ -1,7 +1,7 @@
 # *Alex Chichin*
 ---
 ## **My contact info:**
-
+---
 #### *Phone number*  
 + *+380973393556* 
 #### *Email* 
